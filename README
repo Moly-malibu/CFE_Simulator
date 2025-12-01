@@ -1,0 +1,18 @@
+# CFE 2025 Exam Simulator
+
+A free, local, open-source practice tool for the Certified Fraud Examiner (CFE) exam. Generates 1000+ unique questions (MC + numeric/TBS) with built-in calculator, timer, and explanations. 100% offline.
+
+## Made By
+**Moly-malibu** (Creator & CFE Enthusiast)  
+- LinkedIn: [tu-link-o-email]  
+- Email: aiengineerdsml@gmail.com 
+- Why I built this: To help aspiring CFEs like me practice realistically without expensive prep courses. Based on ACFE guidelines.  
+
+
+## Features
+- 1000+ unique questions (no repeats)
+- Numeric calcs (Net Worth, Benford's Law, ROI)
+- On-screen calculator (like real exam)
+- Timer & scoring (75% pass threshold)
+- English only, CFE 2025 updated
+

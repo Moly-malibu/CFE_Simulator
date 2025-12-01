@@ -126,3 +126,49 @@ with col2:
         else:
             st.session_state.idx += 1
             st.rerun()
+            
+# ——————————————————————— BEAUTIFUL FOOTER ———————————————————————
+st.markdown("---")
+
+footer = """
+<div style="
+    background: linear-gradient(90deg, #1e3a8a, #3b82f6);
+    color: white;
+    padding: 20px;
+    border-radius: 12px;
+    text-align: center;
+    font-family: 'Segoe UI', sans-serif;
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+    margin-top: 40px;
+">
+    <h2>CFE 2025 Exam Simulator</h2>
+    <p style="font-size: 1.1rem; margin: 10px 0;">
+        100% Free • 100% Offline • 1000+ Unique Questions • Real Calculator & Timer
+    </p>
+    <p style="font-size: 1.3rem; margin: 15px 0;">
+        Made with ❤️ by <strong>Moly-malibu</strong>
+    </p>
+    <p>
+        Preparing for the CFE? You're not alone.<br>
+        This tool was built to help you pass with confidence — no expensive courses needed.
+    </p>
+    <p style="margin-top: 20px; font-size: 1rem; opacity: 0.9;">
+        Share with friends • Star on GitHub • Let's crush the CFE together!
+    </p>
+    <div style="margin-top: 15px;">
+        <a href="https://github.com/Moly-malibu/CFE_Simulator" style="color:#fff; text-decoration: underline; font-weight: bold;">GitHub Repository</a>
+        •
+        <a href="mailto:your-email@example.com" style="color:#fff; text-decoration: underline;">Contact Me</a>
+        •
+        <a href="https://linkedin.com/in/yourprofile" style="color:#fff; text-decoration: underline;">LinkedIn</a>
+    </div>
+    <p style="margin-top: 20px; font-size: 0.9rem; opacity: 0.8;">
+        © 2025 Moly-malibu  • Copyright Protected
+    </p>
+</div>
+"""
+st.markdown(footer, unsafe_allow_html=True)
+
+# Optional: Add a little celebration at the very bottom
+st.markdown("<br><br>", unsafe_allow_html=True)
+st.balloons()
