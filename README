@@ -2,17 +2,22 @@
 
 A free, local, open-source practice tool for the Certified Fraud Examiner (CFE) exam. Generates 1000+ unique questions (MC + numeric/TBS) with built-in calculator, timer, and explanations. 100% offline.
 
-## Made By
+## Made with love by
 **Moly-malibu** (Creator & CFE Enthusiast)  
-- LinkedIn: [tu-link-o-email]  
+Moly-malibu – Future CFE 2026
+GitHub: @Moly-malibu
+Feel free to reach out: aiengineerdsml@gmail.com 
 - Email: aiengineerdsml@gmail.com 
 - Why I built this: To help aspiring CFEs like me practice realistically without expensive prep courses. Based on ACFE guidelines.  
 
 
 ## Features
-- 1000+ unique questions (no repeats)
-- Numeric calcs (Net Worth, Benford's Law, ROI)
-- On-screen calculator (like real exam)
-- Timer & scoring (75% pass threshold)
-- English only, CFE 2025 updated
+- 1000+ **unique questions every time** (no repeats!)
+- Real numeric/TBS questions (Net Worth Method, Benford’s Law, ROI, overbilling, etc.)
+- On-screen calculator exactly like the real CFE exam
+- 3-hour timer + instant scoring (75 % pass threshold)
+- Beautiful motivational footer
+- 100 % offline – works without internet
+- English only – fully updated for CFE 2025
 
+This project exists because official practice tools are too expensive. Let’s help each other pass the CFE!
